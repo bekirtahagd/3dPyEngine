@@ -7,7 +7,6 @@ Das Projekt dient als erster praktischer Einstieg in Grafikprogrammierung und en
 ### Raumschiff Render in 3d-PyEngine
 
 https://github.com/user-attachments/assets/a11cdcab-f939-4f26-b7ee-d837f8974eed
-https://github.com/bekirtahagd/3dPyEngine/blob/main/render/stranded_ship.mov
 
 
 
