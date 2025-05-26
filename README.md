@@ -4,15 +4,20 @@
 Eine einfache 3D-Engine in Python, die .obj-Modelle lädt, transformiert und perspektivisch rendert. Sie basiert auf Pygame und NumPy und unterstützt grundlegende Kamerafunktionen, Beleuchtung per Dot-Produkt, Backface Culling und Tiefensortierung. Ein zufällig generierter Sternenhintergrund ergänzt die Szene visuell.
 Das Projekt dient als erster praktischer Einstieg in Grafikprogrammierung und enthält entsprechend noch einige technische Ungenauigkeiten, Limitierungen und Bugs. 
 
+### Raumschiff Render in 3d-PyEngine
+
+https://github.com/user-attachments/assets/a11cdcab-f939-4f26-b7ee-d837f8974eed
+https://github.com/bekirtahagd/3dPyEngine/blob/main/render/stranded_ship.mov
 
 
 
 
 
 
-## Raumschiff Render in 3d-PyEngine
 
-https://github.com/bekirtahagd/3dPyEngine/blob/main/render/stranded_ship.mkv### 3D-Rendering
+# Features
+
+### 3D-Rendering
 - 3D Rendering Pipeline
   - Vertices → Transformation → Projektion → Clipping → Rasterisierung
 - Perspektivische Projektion
@@ -55,7 +60,7 @@ https://github.com/bekirtahagd/3dPyEngine/blob/main/render/stranded_ship.mkv### 
 - Clipping von Flächen an Bildschirmrändern für sauberes Rendering
 - Antialiasing-Effekt durch Kantenschattierung (Polygon-Konturen)
 
-## Probleme und Herausforderungen
+# Probleme und Herausforderungen
 
 - Performance und Ressourcen
   - Python ist nicht sehr rechenstark, viele gleichzeitige Rechnungen sind schwierig wegen fehlendem Memory Management
